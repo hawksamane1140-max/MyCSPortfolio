@@ -1,6 +1,3 @@
-Foundations/
-Math/
-Security/
-AI/
-Research/
-Papers/
+# Foundations
+
+CS fundamentals notes.
